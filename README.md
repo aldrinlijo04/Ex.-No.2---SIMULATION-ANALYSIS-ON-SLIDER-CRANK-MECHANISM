@@ -35,22 +35,17 @@
 ###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/d1412f9a-dcab-4433-a9a5-b5d6d19257b9)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![245486505-bf1f11a7-e40e-43b3-ab06-04baffc9d158](https://github.com/aldrinlijo04/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118544279/2f6f4b26-8e0c-472f-9b6b-fcfb786c61a0)
+
+![Screenshot 2023-06-13 182649](https://github.com/gururamu08/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118707009/bf1f11a7-e40e-43b3-ab06-04baffc9d158)
 
 
-![245486541-da22436a-513c-4815-93da-f242b251b705](https://github.com/aldrinlijo04/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118544279/305f3dd6-e090-49a7-9df2-16c7375a8986)
+![Screenshot 2023-06-13 183637](https://github.com/gururamu08/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118707009/da22436a-513c-4815-93da-f242b251b705)
 
 
-### Name:ALDRIN LIJO J E
+
+### Name: ALDRIN LIJO J E
 ### Register Number: 212222240007
 
 ## RESULT:
